@@ -48,7 +48,7 @@ export function Footer() {
 
         <div className="mt-10 pt-6 border-t border-navy/10 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-navy/60">
           <p>© {new Date().getFullYear()} Ujyalo Nepal. All rights reserved.</p>
-          <p>Made with warmth in Kathmandu.</p>
+          <p>Made with  love  by Prashant Mahato.</p>
         </div>
       </div>
     </footer>
